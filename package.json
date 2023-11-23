@@ -1,0 +1,25 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "this is the npm package",
+  "main": "n",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandra583/disney-hotstar-.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "developer funnel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandra583/disney-hotstar-/issues"
+  },
+  "homepage": "https://github.com/Chandra583/disney-hotstar-#readme",
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
+}
